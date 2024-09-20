@@ -14,7 +14,7 @@ My goal is to be able to manage my code more effectively and eventually publish 
 
 # Assignment 2
 ## Screenshot
-![My screenshot](screenshot.png "test")
+![My screenshot](./Screenshot.png)
 
-## Meme
-![Cute cat](https://imgur.com/gallery/automated-valve-automated-valve-XMpNTGs#/t/seal "A cute cat")
+## My favorite meme
+![Meme](https://i.imgur.com/r6g12Rx.mp4)
