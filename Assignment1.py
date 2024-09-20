@@ -1,0 +1,9 @@
+print('Hell, Data Science!')
+
+multiple3or5 = 0
+
+for i in range (1000):
+    if i%3 == 0 or i%5 == 0:
+        multiple3or5 += i
+
+print(multiple3or5)
