@@ -17,4 +17,4 @@ My goal is to be able to manage my code more effectively and eventually publish 
 ![My screenshot](./Screenshot.png)
 
 ## My favorite meme
-![Meme](https://i.imgur.com/r6g12Rx.mp4)
+![Meme](https://cdn.pixabay.com/photo/2023/11/24/12/06/duck-8409886_1280.png)
